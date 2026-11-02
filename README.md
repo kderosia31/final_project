@@ -50,6 +50,7 @@ Include a short discussion of the findings and what they imply.
 ## Authors
 
 - Kyle DeRosia - [@kderosia31](https://github.com/kderosia31)
+- Rock Gignac - [@rockgignac](https://github.com/rockgignac)
 
 ---
 
