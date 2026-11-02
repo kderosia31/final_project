@@ -1,16 +1,17 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Project Title
+## Predictors of Marathon Performance
 
-> A brief description of what the project does and its purpose.
-
+> The purpose of this project is to identify a variety of indicators of marathon performance.
 ---
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
-
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:**  The purpose of this project is to identify a variety of indicators of marathon performance. There are three subgoals:
+- 1. Determine if there is a specific pacing strategy that leads to faster performance.
+  2. Determine how age influences marathon performance.
+  3. Determine how resources available during training, based on the runner's country of origin, influence marathon performance.
+- **Domain:** Sports Performance
+- **Key Techniques:** Regression, Clustering
 
 ---
 
@@ -28,9 +29,9 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+- **Source:** The primary data set can be found [here](marathon_results_2017.csv)
+- **Description:**The data was retrieved from Kaggle and contains runners names, ages, countries of origin, and times to reach various checkpoints in the race.
+- **License:** NA
 
 ---
 
@@ -60,6 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
+- numpy, pandas, matplotlib, scikit learn
+
