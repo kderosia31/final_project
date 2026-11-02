@@ -49,7 +49,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Kyle DeRosia - [@kderosia31](https://github.com/kderosia31)
 
 ---
 
